@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GBCLBMOWCEOVSNLHYHOKB2VGORQN3FNI4USRUH7GQ5Y5P64GJQZDEEQE"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="DragonEye Token"
+ORG_URL="https://dragoneyetoken.com/"
+ORG_DESCRIPTION="DragonEye most powerful token on the market, you can choose to trade special tokens or to buy it. "
+ORG_TWITTER="@DragonEyeToken"
+ORG_LOGO="https://i.ibb.co/bL1tkbh/d1wgw46-fb0c0de1-ea75-4244-b217-6507ea86ece8.png"
+ORG_OFFICIAL_EMAIL="contact@DragonEye.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="DragonEye"
+issuer="GBCLBMOWCEOVSNLHYHOKB2VGORQN3FNI4USRUH7GQ5Y5P64GJQZDEEQE"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="DragonEye Token"
+desc="DragonEye is the operating system for new energy markets enabling tracking and trading of energy, flexibility services and environmental commodities."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/bL1tkbh/d1wgw46-fb0c0de1-ea75-4244-b217-6507ea86ece8.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#DragonEye Token was issued using the open and inclusive Stellar blockchain network.
